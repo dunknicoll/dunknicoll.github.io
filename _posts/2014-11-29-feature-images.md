@@ -1,9 +1,0 @@
----
-layout: post
-title: Mock up
-"feature-img": img/what.png
-published: true
----
-
-
-I like to try and get some ideas out of my brain and down somewhere in some form. This was mocked up using Sketch.
