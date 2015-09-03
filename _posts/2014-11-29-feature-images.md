@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Feature images
-"feature-img": img/sample_feature_img.png
+title: Mock up
+"feature-img": img/what.png
 published: true
 ---
 
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
+I like to try and get some ideas out of my brain and down somewhere in some form. This was mocked up using Sketch.
