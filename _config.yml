@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dunknicoll.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme: 
   # Meta
   title: dunknicoll
   avatar: avatar.png
@@ -62,6 +62,7 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
+plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: pygments
 sass:
